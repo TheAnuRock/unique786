@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><Deployment>
+	<Properties>
+	<Property name="INSTALLDIR">C:\Program Files\Adobe</Property><Property name="installLanguage">en_US</Property></Properties>
+	<Payloads>
+	<Payload adobeCode="{30C4B843-28DA-466F-AFCA-CB0ED153C826}"><Action>install</Action></Payload></Payloads>
+</Deployment>
